@@ -20,3 +20,10 @@
 # Go workspace file
 go.work
 go.work.sum
+.*
+app-amd64-linux
+quorum-master
+QBFT-Network/Node-0/data/geth/
+QBFT-Network/Node-0/data/keystore/
+QBFT-Network/artifacts
+artifacts.zip
